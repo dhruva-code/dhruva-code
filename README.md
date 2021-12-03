@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruva Kumar Katakam</h1>
 <h3 align="center">A passionate Penetration tester | Developer | Techie enthusiast</h3>
 
-- 🌱 I’m currently learning **Cloud Penetration testing**
+- 🌱 I’m a **Certified Ethical Hacker** | **Penetration Tester**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruva-code](https://github.com/dhruva-code)
 
